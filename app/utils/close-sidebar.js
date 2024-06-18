@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/close-sidebar';
+export { default } from '@lipagas/ember-core/utils/close-sidebar';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/is-email';
+export { default } from '@lipagas/ember-core/utils/is-email';

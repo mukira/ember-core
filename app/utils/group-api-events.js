@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/group-api-events';
+export { default } from '@lipagas/ember-core/utils/group-api-events';

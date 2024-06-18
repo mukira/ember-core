@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/has-json-structure';
+export { default } from '@lipagas/ember-core/utils/has-json-structure';

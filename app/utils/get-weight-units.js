@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/get-weight-units';
+export { default } from '@lipagas/ember-core/utils/get-weight-units';

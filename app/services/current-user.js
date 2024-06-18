@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/services/current-user';
+export { default } from '@lipagas/ember-core/services/current-user';

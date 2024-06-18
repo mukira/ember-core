@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/get-mounted-engine-route-prefix';
+export { default } from '@lipagas/ember-core/utils/get-mounted-engine-route-prefix';

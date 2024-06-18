@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/decorators/from-store';
+export { default } from '@lipagas/ember-core/decorators/from-store';

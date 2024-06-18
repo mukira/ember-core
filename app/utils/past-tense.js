@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/past-tense';
+export { default } from '@lipagas/ember-core/utils/past-tense';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/corslite';
+export { default } from '@lipagas/ember-core/utils/corslite';

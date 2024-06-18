@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/apply-column-filters';
+export { default } from '@lipagas/ember-core/utils/apply-column-filters';

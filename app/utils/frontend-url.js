@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/frontend-url';
+export { default } from '@lipagas/ember-core/utils/frontend-url';

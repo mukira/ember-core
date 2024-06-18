@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/array-unique-by';
+export { default } from '@lipagas/ember-core/utils/array-unique-by';

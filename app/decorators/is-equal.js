@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/decorators/is-equal';
+export { default } from '@lipagas/ember-core/decorators/is-equal';

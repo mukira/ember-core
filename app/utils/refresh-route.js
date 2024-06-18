@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/refresh-route';
+export { default } from '@lipagas/ember-core/utils/refresh-route';

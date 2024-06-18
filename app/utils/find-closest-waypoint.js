@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/find-closest-waypoint';
+export { default } from '@lipagas/ember-core/utils/find-closest-waypoint';

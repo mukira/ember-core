@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/first';
+export { default } from '@lipagas/ember-core/utils/first';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/make-dataset';
+export { default } from '@lipagas/ember-core/utils/make-dataset';

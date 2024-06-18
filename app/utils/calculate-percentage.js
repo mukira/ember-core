@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/calculate-percentage';
+export { default } from '@lipagas/ember-core/utils/calculate-percentage';

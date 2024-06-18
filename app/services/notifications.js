@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/services/notifications';
+export { default } from '@lipagas/ember-core/services/notifications';

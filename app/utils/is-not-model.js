@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/is-not-model';
+export { default } from '@lipagas/ember-core/utils/is-not-model';

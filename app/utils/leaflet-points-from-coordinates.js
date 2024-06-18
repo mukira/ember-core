@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/leaflet-points-from-coordinates';
+export { default } from '@lipagas/ember-core/utils/leaflet-points-from-coordinates';

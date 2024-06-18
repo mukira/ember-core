@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/generate-uuid';
+export { default } from '@lipagas/ember-core/utils/generate-uuid';

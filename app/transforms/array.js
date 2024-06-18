@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/transforms/array';
+export { default } from '@lipagas/ember-core/transforms/array';

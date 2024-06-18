@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/context-component-callback';
+export { default } from '@lipagas/ember-core/utils/context-component-callback';

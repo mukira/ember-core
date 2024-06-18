@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/reverse-point';
+export { default } from '@lipagas/ember-core/utils/reverse-point';

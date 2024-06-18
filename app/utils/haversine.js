@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/haversine';
+export { default } from '@lipagas/ember-core/utils/haversine';

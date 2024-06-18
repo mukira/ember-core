@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/apply-context-component-arguments';
+export { default } from '@lipagas/ember-core/utils/apply-context-component-arguments';

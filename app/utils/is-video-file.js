@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/is-video-file';
+export { default } from '@lipagas/ember-core/utils/is-video-file';

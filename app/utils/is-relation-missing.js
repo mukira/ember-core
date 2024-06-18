@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-core/utils/is-relation-missing';
+export { default } from '@lipagas/ember-core/utils/is-relation-missing';
